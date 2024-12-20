@@ -1,4 +1,4 @@
-# eH. Dev - Your Digital Playground
+# eH. Dev
 
 Welcome to **eH. Dev**, the professional portfolio of a passionate full-stack developer. This dynamic showcase highlights my journey and expertise in coding. Explore my work and connect with me to create something amazing together!
 
