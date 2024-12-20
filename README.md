@@ -1,6 +1,6 @@
-# eH. Dev
+# H. Dev
 
-Welcome to **eH. Dev**, the professional portfolio of a passionate full-stack developer. This dynamic showcase highlights my journey and expertise in coding. Explore my work and connect with me to create something amazing together!
+Welcome to **H. Dev**, the professional portfolio of a passionate full-stack developer. This dynamic showcase highlights my journey and expertise in coding. Explore my work and connect with me to create something amazing together!
 
 ## About Me
 
@@ -38,6 +38,7 @@ npm install
 #### Setup ``.env`` variables
 ```
 PORT=yourPort
+MONGO_URI="your_MongoDB_URI"
 ```
 #### Run the development server
 ```

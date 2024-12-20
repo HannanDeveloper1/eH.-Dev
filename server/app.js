@@ -1,10 +1,14 @@
-const express = require("express");
-const cors = require("cors");
+// Imports
+import express from "express";
+import cors from "cors";
 
+// Assign variables
 const app = express();
 
+// Middlewares
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-module.exports = app;
+// Export the app variable as default
+export default app;
