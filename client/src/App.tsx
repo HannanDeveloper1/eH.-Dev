@@ -1,5 +1,14 @@
+// Imports
+import {Route, Routes} from "react-router-dom";
+import Home from "./pages/Home.tsx";
+
+// Exported default function
 export default function App() {
     return (
-        <h1>Home</h1>
+        <>
+        <Routes>
+            <Route path={"/"} element={<Home/>}/>
+        </Routes>
+        </>
     )
 }
